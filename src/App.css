@@ -1,0 +1,286 @@
+.logo{
+  height: 42px;
+  width: 179px;
+  left: 660px;
+  top: 206px;
+  border-radius: nullpx;
+  font-family: Ravie;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 48px;
+  letter-spacing: 0.05em;
+  text-align: left;
+  position: absolute;
+  color: #07A6F0; 
+  }
+  
+  .portal{
+  position: absolute;
+  width: 153px;
+  height: 25px;
+  left: 673px;
+  top: 257px;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 25px;
+  letter-spacing: 0.05em;
+  color: #181943;
+  }
+
+.set{
+position: absolute;
+height: 27px;
+width: 305px;
+left: 547px;
+top: 396px;
+border-radius: nullpx;
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 27px;
+letter-spacing: 0.02em;
+color: #5C5C5C;
+}
+
+.name1{
+height: 24px;
+width: 411px;
+left: 547px;
+top: 470px;
+border-radius: nullpx;  
+position: absolute;
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 25px;
+letter-spacing: 0.05em;
+color: #5C5C5C;
+}
+
+.name2{
+height: 24px;
+width: 411px;
+left: 547px;
+top: 540px;
+border-radius: nullpx;
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: normal;
+color: #5C5C5C;
+font-size: 18px;
+line-height: 25px;
+letter-spacing: 0.05em;
+position: absolute;
+}
+
+.name3{
+height: 24px;
+width: 411px;
+left: 547px;
+top: 610px;
+border-radius: nullpx;
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 25px;
+position:absolute;
+letter-spacing: 0.05em;
+color: #5C5C5C;
+}
+
+.name4{
+height: 24px;
+width: 411px;
+left: 547px;
+top: 680px;
+border-radius: nullpx;
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 25px;
+letter-spacing: 0.05em;
+color: #5C5C5C;
+position: absolute;
+}
+
+.name5{
+height: 24px;
+width: 411px;
+left: 547px;
+top: 750px;
+border-radius: nullpx;
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 25px;
+letter-spacing: 0.05em;
+color: #5C5C5C;
+position: absolute;
+}
+
+#l1{
+position: absolute;
+height: 0px;
+width: 411.00000000000153px;
+left: 547px;
+top: 505px;
+border-radius: nullpx;
+border: 1px solid #BDBDBD;
+}
+
+#l2{
+height: 0px;
+width: 411.00000000000153px;
+left: 547px;
+top: 575px;
+border-radius: nullpx;
+position: absolute;
+border: 1px solid #BDBDBD;
+}
+
+#l3{
+height: 0px;
+width: 411.00000000000153px;
+left: 547px;
+top: 645px;
+border-radius: nullpx;
+position: absolute;
+border: 1px solid #BDBDBD;
+}
+
+#l4{
+height: 0px;
+width: 411.00000000000153px;
+left: 547px;
+top: 715px;
+border-radius: nullpx;
+position: absolute;
+border: 1px solid #BDBDBD;
+}
+
+#l5{
+height: 0px;
+width: 411.00000000000153px;
+left: 547px;
+top: 785px;
+border-radius: nullpx;
+position: absolute;
+border: 1px solid #BDBDBD;
+}
+
+#f6{
+height: 76px;
+width: 411px;
+left: 547px;
+top: 809px;
+border-radius: 5px;
+background: #E0E0E0;
+position: absolute;
+border: 1px solid #E0E0E0;
+box-sizing: border-box;
+}
+
+.f6p{
+height: 33px;
+width: 199px;
+left: 22px;
+top: 13px;
+border-radius: nullpx;
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 33px;
+position: absolute;
+letter-spacing: 0.05em;
+color: #07A6F0;
+}
+
+.f6y{
+height: 22px;
+width: 45px;
+left: 224px;
+top: 21px;
+border-radius: nullpx;
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 22px;
+position: absolute;
+letter-spacing: 0.05em;
+color: #5C5C5C;
+}
+
+.dis{
+height: 16px;
+width: 305px;
+left: 22px;
+top: 48px;
+border-radius: nullpx;
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 16px;
+letter-spacing: 0.05em;
+position: absolute;
+color: #828282;
+}
+
+.terms{
+height: 38px;
+width: 460px;
+left: 547px;
+top: 902px;
+border-radius: nullpx;
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 19px;
+letter-spacing: 0.02em;
+position: absolute;
+color: #5C5C5C;
+}
+
+#box{
+height: 25.5px;
+width: 25.5px;
+left: 551.25px;
+top: 957.25px;
+border-radius: 0px;
+position: absolute;
+color: #464779;
+}
+
+.agree{
+  height: 19px;
+width: 45px;
+left: 589px;
+top: 960px;
+border-radius: nullpx;
+position: absolute;
+
+position: absolute;
+width: 45px;
+height: 19px;
+left: 589px;
+top: 960px;
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 19px;
+letter-spacing: 0.02em;
+color: #000000;
+
+}
